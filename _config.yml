@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jybin96.github.io/" # the base hostname & protocol for your site
 # User settings
 username: 어린콩
-user_description: 성장하는 개발자
+user_description: 아직은 많이 부족하지만 개발공부를하면서 점차 성장하는 개발자가 되겠습니다!
 user_title: Software Engineer
 email: jybin96@changwon.ac.kr
 # twitter_username: lorem_ipsum
