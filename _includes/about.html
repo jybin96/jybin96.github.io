@@ -1,7 +1,7 @@
 <div class="user-details">
   <h1>나의 소개</h1>
   <p>{{ site.user_description }}</p>
-  <img href='{{ "/assets/youngbean.png" | relative_url }}'  alt="영빈">
+  <img src="{% feature_img %}" alt="youngbean" />
   <!-- result :  /assets/youngbean.png -->
 </div>
 <div class="user">
