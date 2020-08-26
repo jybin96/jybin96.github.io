@@ -1,5 +1,8 @@
 #mainimg{
+    position: absolute;
     border-radius: 50%;
+    top: 30%;
+    left: 50%;
 }
 
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
